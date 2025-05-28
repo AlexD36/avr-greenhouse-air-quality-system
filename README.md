@@ -17,7 +17,6 @@ An embedded system built with **Arduino UNO** and **bare-metal AVR C** for monit
 ## 🔌 Wiring Diagram
 
 ![image](https://github.com/user-attachments/assets/d67e64a1-8a9c-4fc7-b955-58223d9d2f77)
-https://www.tinkercad.com/things/0xK9yrXoCvR/editel?returnTo=%2Fdashboard&sharecode=WILO0LWg-y4IzRMXu_A1a9t614sJpQdgARjkKx9cM7k
 
 ## Features
 
