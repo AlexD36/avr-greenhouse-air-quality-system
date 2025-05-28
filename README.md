@@ -75,6 +75,10 @@ avr-objcopy -O ihex main.elf main.hex
 avrdude -c arduino -p m328p -P COMx -b 115200 -U flash:w:main.hex
 ````
 
+---
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
