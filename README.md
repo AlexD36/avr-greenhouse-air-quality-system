@@ -75,8 +75,6 @@ avr-objcopy -O ihex main.elf main.hex
 avrdude -c arduino -p m328p -P COMx -b 115200 -U flash:w:main.hex
 ````
 
-## 📸 Screenshots
 
-![LCD Screenshot](./1f9fcc9f-82f5-4473-89e5-70d27542ffe1.png)
 
 
