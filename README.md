@@ -1,6 +1,9 @@
 
 # 🌿 Greenhouse Air Quality Control System
 
+![C](https://img.shields.io/badge/C-AVR%20Bare--Metal-00599C?style=flat&logo=c&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Arduino%20UNO-00979D?style=flat&logo=arduino&logoColor=white)
+
 An embedded system built with **Arduino UNO** and **bare-metal AVR C** for monitoring and controlling air quality in a greenhouse. The system measures temperature and gas concentration, triggers an alarm if thresholds are exceeded, and controls ventilation via a servo motor.
 
 ## 🛠 Components Used
